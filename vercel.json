@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/centro_dental_alroza_v7.html" }
-  ]
-}
